@@ -23,7 +23,7 @@ There are two interfaces:
 
 ## Conversation log
 
-The agent creates a log `conversaion.log`.
+The agent creates a log `conversation.log`.
 It is Human readable but "nearly wireformat".
 
 ### Examples
